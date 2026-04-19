@@ -1,0 +1,8 @@
+{
+  "name": "SIBA7RI .AI",
+  "description": "Marine Intelligence for a smarter, safer, and more sustainable fishing ecosystem in the Gulf of Gabès.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
